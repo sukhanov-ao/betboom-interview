@@ -1,0 +1,17 @@
+{
+  "data": {
+    "name_of_operation": {
+      "return_object": null,
+      "error": {
+        "code": "VALIDATE",
+        "fields": [
+          {
+            "field": "field_name",
+            "message": "must be in a valid format"
+          }
+        ],
+        "message": "validation error"
+      }
+    }
+  }
+}
